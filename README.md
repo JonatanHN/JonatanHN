@@ -12,8 +12,9 @@
 
 ======================= ☣ [Website](https://jonatanhn-website.web.app) ☣ ========================
 
- 
-| **Sigueme en mis redes** |
+|**Sigueme En Mis Redes** **Follow Me**|
+
+
 -------[=>>>]    ![](https://img.icons8.com/ios/24/000000/twitter-circled.png)[/JonatanHN00](https://twitter.com/jonatanhn00) [<<<=] [=>>>] ![](https://img.icons8.com/ios/24/000000/facebook.png) [/JonatanHN00](https://facebook.com/jonatanhn00)[<<<=]------
 
 -------[=>>>]   ![](https://img.icons8.com/ios/24/000000/instagram-new.png)[/JonatanHN00](https://instagram.com/jonatanhn00) [<<<=] [=>>>] ![](https://img.icons8.com/ios/24/000000/facebook-messenger.png) [/JonatanHN00]()[<<<=]------
