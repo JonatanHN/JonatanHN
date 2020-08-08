@@ -7,6 +7,7 @@
 
 [![Twitter: JonatanHN](https://img.shields.io/twitter/follow/jonatanhn00?style=social)](https://twitter.com/jonatanhn00)
 [![GitHub JonatanHN](https://img.shields.io/github/followers/jonatanhn?label=follow&style=social)](https://github.com/jonatanhn)
+[!Mastodon JonatanHN](https://img.shields.io/mastodon/follow/812564?style=social)](https://mastodon.social/web/accounts/812564)
 
 # ¡¡100% Tapatio!! 🌮 
 ### GDL JALISCO MX ![](https://img.icons8.com/color/30/000000/mexico-circular.png)
