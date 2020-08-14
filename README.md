@@ -26,6 +26,3 @@
 
 
 -------[=>>>]   ![](https://img.icons8.com/ios/24/000000/instagram-new.png)[/JonatanHN00](https://instagram.com/jonatanhn00) [<<<=]------
-
-
--------[=>>>] ![](https://img.icons8.com/ios/24/000000/facebook-messenger.png) [/JonatanHN00]()[<<<=]------
