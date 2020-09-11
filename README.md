@@ -1,6 +1,3 @@
-<a href="https://jonatanhn-website.web.app"><img align="center" width="100%" src="https://images.pexels.com/photos/5339768/pexels-photo-5339768.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"></a>
-
-
 # Hi programmers ![](https://img.icons8.com/clouds/60/000000/github.png)
   
 ### ¡¡100% Tapatio!! 🌮 GDL JALISCO MX ![](https://img.icons8.com/color/30/000000/mexico-circular.png)
@@ -17,6 +14,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonatanHN&show_icons=true&theme=dracula)
 
-
-
+<a href="https://jonatanhn-website.web.app"><img align="center" width="100%" src="https://images.pexels.com/photos/5339768/pexels-photo-5339768.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"></a>
 
