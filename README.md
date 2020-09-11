@@ -15,16 +15,8 @@
 # ¡¡100% Tapatio!! 🌮 
 ### GDL JALISCO MX ![](https://img.icons8.com/color/30/000000/mexico-circular.png)
 
-![image](https://images.unsplash.com/photo-1561788655-79bf50b6b174?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonatanHN&show_icons=true&theme=dracula)
 
 
-|**Sigueme En Mis Redes** **Follow Me**|
 
 
--------[=>>>]    ![](https://img.icons8.com/ios/24/000000/twitter-circled.png)[/JonatanHN00](https://twitter.com/jonatanhn00) [<<<=]------
-
-
--------[=>>>] ![](https://img.icons8.com/ios/24/000000/facebook.png) [/JonatanHN00](https://facebook.com/jonatanhn00)[<<<=]------
-
-
--------[=>>>]   ![](https://img.icons8.com/ios/24/000000/instagram-new.png)[/JonatanHN00](https://instagram.com/jonatanhn00) [<<<=]------
