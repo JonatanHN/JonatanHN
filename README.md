@@ -67,5 +67,4 @@
 
 ### My Stats 🌠
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JonatanHN&show_icons=true&theme=dracula)
-
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=JonatanHN&show_icons=true&theme=dracula" ></img>
