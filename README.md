@@ -4,6 +4,8 @@
 
 <a href="https://jonatanhn-website.web.app"><img align="center" width="100%" src="https://images.pexels.com/photos/5339768/pexels-photo-5339768.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"></a>
 
+### Contributions and Communication 👥
+
 <a href="https://github.com/faztcommunity"><img src="https://camo.githubusercontent.com/e55d7ec6eac7a82e195022716dadfcd970e2179f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46617a74253230436f6d6d756e697479253230436f6e7472696275746f722d4769744875622d726564" alt="Fazt Community" data-canonical-src="https://img.shields.io/badge/Fazt%20Community%20Contributor-GitHub-red" style="max-width:100%;"></a>
 ![](https://komarev.com/ghpvc/?username=JonatanHN&style=flat&color=2ecc71)
 [![Twitter: JonatanHN](https://img.shields.io/twitter/follow/jonatanhn00?label=follow&style=social)](https://twitter.com/jonatanhn00)
@@ -48,7 +50,7 @@
         "Backend": ["Php", "Nodejs"],
         "Databases": ["Mysql", "MongoDB"],
         "Mobile": ["Nativescript", "Flutter"],
-        "Learning": ["Deno", "Python", "GO", "Angular"]
+        "Learning": ["Deno",  "Typescript", "Python", "GO", "Angular", "Kotlin"]
     },
     "Organizations": [
     "Fazt Community ~ Group Core 🌠",
