@@ -30,7 +30,7 @@
     "Ugar",
     "OrionBOT",
     "Codephoenix",
-    "GeoMapPlus",
+    "HydraCheck",
     "And More",
     "Cooming soon more"
     ],
