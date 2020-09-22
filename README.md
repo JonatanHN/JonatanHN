@@ -21,7 +21,7 @@
     "scripts": {
         "start": "node jonatanhn.js"
     },
-    "language" "Spanish and a bit of English",
+    "language":["English", "Spanish"],
     "keywords": [
     "student 👨🏻‍💻",
     "code lover 💖"
