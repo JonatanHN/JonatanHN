@@ -4,7 +4,7 @@
 
 ### **¡¡100% Tapatio!! 🌮 GDL JALISCO MX** ![](https://img.icons8.com/color/30/000000/mexico-circular.png)
 
-<a href="https://jonatanhn-website.web.app"><img align="center" width="100%" src="https://images.pexels.com/photos/5425288/pexels-photo-5425288.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"></a>
+<a href="https://jonatanhn-website.web.app"><img align="center" width="100%" src="https://jonatanhn-website.web.app/assets/img/logos/transparent/cover.png"></a>
 
 ### **Contributions and Communication 👥**
 
