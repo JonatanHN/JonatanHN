@@ -67,7 +67,4 @@
 
 ### **My Stats 🌠**
 
-<div align="center">
-<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=JonatanHN&show_icons=true&theme=dark" ></img>
-</div>
