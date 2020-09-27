@@ -1,14 +1,22 @@
  # **Hi programmers** ![](https://img.icons8.com/clouds/60/000000/github.png)
 		
 
+<div align="center">
 
 ### **¡¡100% Tapatio!! 🌮 GDL JALISCO MX** ![](https://img.icons8.com/color/30/000000/mexico-circular.png)
 
+</div>
+
 <a href="https://jonatanhn-website.web.app"><img align="center" width="100%" src="https://jonatanhn-website.web.app/assets/img/logos/transparent/cover.png"></a>
+
+<div align="center">
 
 ### **Contributions and Communication 👥**
 
+</div>
+
 <div alig="center">
+	
 </br>
 
 ![](https://komarev.com/ghpvc/?username=JonatanHN&style=flat&color=2ecc71)
