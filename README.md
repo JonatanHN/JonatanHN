@@ -5,7 +5,7 @@
 
 
 
-### **¡¡100% Tapatio!! 🌮 GDL JALISCO MX** ![](https://img.icons8.com/color/30/000000/mexico-circular.png)
+### *¡¡100% Tapatio!! 🌮 GDL JALISCO MX* ![](https://img.icons8.com/color/30/000000/mexico-circular.png)
 
 </div>
 
