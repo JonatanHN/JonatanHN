@@ -69,7 +69,7 @@
         "Backend": ["Php", "Nodejs"],
         "Databases": ["Mysql", "MongoDB"],
         "Mobile": ["Nativescript", "Flutter"],
-        "Learning": ["Deno",  "Typescript", "Python", "GO", "Angular", "Kotlin"]
+        "Learning": ["Deno",  "Typescript", "Python", "GO", "Angular", "Svelte", "Kotlin"]
     },
     "Organizations": [
     "Fazt Community ~ Group Core 🌠",
