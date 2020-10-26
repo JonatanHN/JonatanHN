@@ -36,7 +36,7 @@
 
 
 ```json
-// About me
+// Skills and more
     {
     "name": "JonatanHN",
     "version": "ONLY",
