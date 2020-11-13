@@ -51,33 +51,17 @@
     "student 👨🏻‍💻",
     "code lover 💖"
     ],
-    "repositories": [
-    "Ugar",
-    "OrionBOT",
-    "Codephoenix",
-    "HydraCheck",
-    "And More",
-    "Cooming soon more"
-    ],
     "author": "JonatanHN",
     "skills": {
         "Code": ["Javascript", "Shell", "Java", "C#"],
         "Markup and Styles": ["HTML", "CSS"],
-        "Frameworks CSS":["Materialize", "Bootstrap", "Tailwindcss"],
+        "Frameworks CSS":["Materialize", "Bootstrap"],
         "Frameworks CSS and Libraries": ["React", "Vuejs"],
         "Backend": ["Php", "Nodejs"],
-        "Databases": ["Mysql", "MongoDB"],
-        "Mobile": ["Nativescript", "Flutter"],
-        "Learning": ["Deno",  "Typescript", "Python", "GO", "Angular", "Svelte", "Kotlin"]
-    },
-    "Organizations": [
-    "Fazt Community ~ Group Core 🌠",
-    "Team Codephoenix ~ CEO 👨🏻‍💻",
-    "KatoCrew ~ Member 🐱"
-    ]
+        "Mobile": ["Nativescript"],
+        "Learning": ["Dart", "Flutter", "Typescript", "Python", "Tailwindcss"]
+    }
 }
-		
-// JonatanHN &copy 2020
 
 ```
 
