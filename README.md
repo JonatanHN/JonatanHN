@@ -32,16 +32,12 @@
 
 ### *About me and Skills 🌚*
 
-```☣ Hello friends welcome to my github profile, take a seat and enjoy my repositories and libraries, I am glad that you are here, I tell you that I am a front end developer, passionate about web design, also about UX and UI concepts, lover 100% code 👨🏻‍💻👽, I have learned from great masters and participated in several bootcamps, as a startup hack where I learned to develop code, I invite you to follow me so as not to miss absolutely anything that in some future I may create , I am part of faztcommunity and I would be glad if you join the large community of Spanish-speaking programmers !! , And that's it. See you later✌🏻.```
-
-
 ```json
 // Skills and more
     {
     "name": "JonatanHN",
     "version": "ONLY",
     "description": "Developer Frontend 🌌",
-    "goal": "Grow in knowledge, improve over time, and contribute great things to the community 🐱‍👤",
     "main": "programmer.js",
     "scripts": {
         "start": "node jonatanhn.js"
