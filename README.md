@@ -35,14 +35,14 @@
 ```json
 // Skills and more
     {
-    "name": "JonatanHN",
+    "name": "Jonatan Hernandez",
     "version": "ONLY",
     "description": "Developer Frontend 🌌",
     "main": "programmer.js",
     "scripts": {
         "start": "node jonatanhn.js"
     },
-    "language":["English", "Spanish"],
+    "language":["English 50%", "Spanish 100%"],
     "keywords": [
     "student 👨🏻‍💻",
     "code lover 💖"
