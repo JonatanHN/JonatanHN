@@ -11,10 +11,6 @@
 
 <div align="center">
 
-### **Contributions and Communication 👥**
-
-
-
 <div align="center">
 	
 </br>
