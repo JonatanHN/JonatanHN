@@ -11,7 +11,7 @@
 [![Twitter: JonatanHN](https://img.shields.io/twitter/follow/jonatanhn00?label=follow&style=social)](https://twitter.com/jonatanhn00)
 [![GitHub JonatanHN](https://img.shields.io/github/followers/jonatanhn?label=follow&style=social)](https://github.com/jonatanhn)
         
-<img width="30%" src="https://github-readme-stats.vercel.app/api?username=JonatanHN&show_icons=true&theme=dark" >
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=JonatanHN&show_icons=true&theme=dark" >
         
 </div>
 
