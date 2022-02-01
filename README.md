@@ -2,8 +2,6 @@
  
 # *GITHUB PROFILE* ![](https://img.icons8.com/clouds/60/000000/github.png)
         
-<a href="https://app.daily.dev/JonatanHN"><img src="https://api.daily.dev/devcards/195b43859b4540b6a6a67396399b7e0b.png?r=8a1" width="50%" alt="JonatanHN's Dev Card"/></a>
-        
 </div>
 <div align="center">
         
