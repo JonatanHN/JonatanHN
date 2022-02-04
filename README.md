@@ -31,13 +31,16 @@
   
   <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/42/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/42/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-green-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/webpack.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/42/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/42/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-tritone-tal-revivo.png"/>
  
   ### Learning 👨🏻‍💻
   
+  <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-green-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/000000/external-deno-a-secure-runtime-for-javascript-and-typescript-logo-green-tal-revivo.png"/>
  
