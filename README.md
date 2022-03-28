@@ -9,11 +9,12 @@
 </div>
  
  [![Github](https://img.shields.io/badge/-GitHub-%23282a36?style=for-the-badge&logo=GitHub)](https://www.twitter.com/jonatanhn00)
- [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/jonatanhn00)
+ [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/jonatanhn)
  [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/jonatanhn00)
  [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCZbOo5XlsjFuROgPrLmRRGQ)
  [![Instagram](https://img.shields.io/badge/-Instagram-%23282a36.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F)](https://www.instagram.com/jonatanhn00)
- 
+ ![Views](https://komarev.com/ghpvc/?username=JonatanHN&style=for-the-badge&color=282a36&label=👀)
+        
  ### *I'M FROM GDL JALISCO MX* ![](https://img.icons8.com/color/30/000000/mexico-circular.png)
  
  
