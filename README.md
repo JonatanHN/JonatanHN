@@ -8,9 +8,7 @@
 
 </div>
  
- ![](https://komarev.com/ghpvc/?username=JonatanHN&style=flat&color=2ecc71)
- [![Twitter: JonatanHN](https://img.shields.io/twitter/follow/jonatanhn00?label=follow&style=social)](https://twitter.com/jonatanhn00)
- [![GitHub JonatanHN](https://img.shields.io/github/followers/jonatanhn?label=follow&style=social)](https://github.com/jonatanhn)
+ [![Github](https://img.shields.io/badge/-GitHub-%23282a36?style=for-the-badge&logo=GitHub)](https://www.twitter.com/jonatanhn00)
  [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/jonatanhn00)
  [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/jonatanhn00)
  [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCZbOo5XlsjFuROgPrLmRRGQ)
