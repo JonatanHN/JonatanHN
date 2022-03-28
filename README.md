@@ -25,8 +25,10 @@
  
  <div align="center">
 
- # **Technologies and more 🧑🏻**
-
+  ---
+  
+   ### **Technologies and more 🧑🏻**
+         
  </div>
  
 <div align="center">
@@ -54,18 +56,18 @@
  </div>
  
 <div align="center">
-        
-  ### Langs 🧑🏻‍💻
  
- <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanhn&theme=codeSTACKr&show_icons=true&langs_count=8">
-        
-  ---
-        
- ### Stats 📶
+---
+ 
+  ### Stats 📶
+ 
+ <img width="40%" src="https://github-readme-stats.vercel.app/api?username=JonatanHN&theme=codeSTACKr&show_icon=true" >
+ 
+ ### Langs 🧑🏻‍💻
+ <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanhn&theme=codeSTACKr&show_icons=true&langs_count=12&layout=compact">
 
- <img width="40%" src="https://github-readme-stats.vercel.app/api?username=JonatanHN&show_icons=true&theme=dark" >
-        
- 
+
+ ---
         
  
 
