@@ -63,10 +63,6 @@
   ### Stats 📶
  
  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=JonatanHN&theme=codeSTACKr&show_icon=true" >
- 
- ### Langs 🧑🏻‍💻
- <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanhn&theme=codeSTACKr&show_icons=true&langs_count=12&layout=compact">
-
 
  ---
         
