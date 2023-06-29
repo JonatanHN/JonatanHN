@@ -14,7 +14,7 @@
  [![Instagram](https://img.shields.io/badge/-Instagram-%23282a36.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F)](https://www.instagram.com/jonatanhn00)
  ![Views](https://komarev.com/ghpvc/?username=JonatanHN&style=for-the-badge&color=282a36&label=👀)
         
- ### *I'M FROM GDL JALISCO MX* ![](https://img.icons8.com/color/30/000000/mexico-circular.png)
+ ### *Frontend Developer*
  
  
  ⚡ Fun fact:
@@ -74,3 +74,4 @@
 
 
 ![Bottom Image](./img/bottom.svg)
+![](https://img.icons8.com/color/30/000000/mexico-circular.png)
