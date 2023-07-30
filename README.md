@@ -69,6 +69,8 @@
   [![Telegram](https://img.shields.io/badge/-Nativescript-%23282a36?style=for-the-badge&logo=Nativescript)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Native-%23282a36?style=for-the-badge&logo=React)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Deno-%23282a36?style=for-the-badge&logo=Deno)](https://t.me/jonatanhn)
+  [![Telegram](https://img.shields.io/badge/-Astro-%23282a36?style=for-the-badge&logo=Astro)](https://t.me/jonatanhn)
+  [![Telegram](https://img.shields.io/badge/-Svelte-%23282a36?style=for-the-badge&logo=Svelte)](https://t.me/jonatanhn)
    
         
  </div>
