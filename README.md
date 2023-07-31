@@ -44,6 +44,7 @@
   [![Telegram](https://img.shields.io/badge/-Python-%23282a36?style=for-the-badge&logo=Python)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Express-%23282a36?style=for-the-badge&logo=Express)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Nestjs-%23282a36?style=for-the-badge&logo=Nestjs)](https://t.me/jonatanhn)
+  [![Telegram](https://img.shields.io/badge/-Adonis-%23282a36?style=for-the-badge&logo=Adonisjs)](https://t.me/jonatanhn)
   
   
   ### *Frontend and Frameworks🖥️*
@@ -75,15 +76,17 @@
         
  </div>
  
-<div style="display:flex;">
+<div style="display:flex;" align="center">
  
 ---
 
   ### *Stats 🔥*
   [![GitHub Streak](https://streak-stats.demolab.com?user=JonatanHN&theme=soft-green&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-  [![GitHub Readme](https://github-readme-stats.vercel.app/api?username=JonatanHN&theme=dark&show_icon=true&hide_border=true&amp;rank_icon=github&show_icons=true&bg_color=222428&border_radius=10)](https://github-readme-stats.vercel.app)
+  
 
 ---     
+
+   [![GitHub Readme](https://github-readme-stats.vercel.app/api?username=JonatanHN&theme=dark&show_icon=true&hide_border=true&amp;rank_icon=github&show_icons=true&bg_color=222428&border_radius=10)](https://github-readme-stats.vercel.app)
  
 
 </div>
