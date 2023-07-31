@@ -60,8 +60,6 @@
   [![Telegram](https://img.shields.io/badge/-MYSQL-%23282a36?style=for-the-badge&logo=MYSQL)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-PostgresQL-%23282a36?style=for-the-badge&logo=PostgresQL)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-MongoDB-%23282a36?style=for-the-badge&logo=MongoDB)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-React-%23282a36?style=for-the-badge&logo=React)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Vue-%23282a36?style=for-the-badge&logo=Vue.js)](https://t.me/jonatanhn)
 
   ### *Learning 🏫*
 
