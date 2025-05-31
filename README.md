@@ -10,7 +10,7 @@
  
  
  [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/jonatanhn)
- [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=X)](https://www.twitter.com/jonatanhn00)
+ [![Twitter](https://img.shields.io/badge/--%23282a36?style=for-the-badge&logo=X)](https://www.twitter.com/jonatanhn00)
  [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCZbOo5XlsjFuROgPrLmRRGQ)
  [![Instagram](https://img.shields.io/badge/-Instagram-%23282a36.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F)](https://www.instagram.com/jonatanhn00)
  ![Views](https://komarev.com/ghpvc/?username=JonatanHN&style=for-the-badge&color=282a36&label=👀)
@@ -45,6 +45,8 @@
   [![Telegram](https://img.shields.io/badge/-Express-%23282a36?style=for-the-badge&logo=Express)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Nestjs-%23282a36?style=for-the-badge&logo=Nestjs)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Adonis-%23282a36?style=for-the-badge&logo=Adonisjs)](https://t.me/jonatanhn)
+  [![Telegram](https://img.shields.io/badge/-Django-%23282a36?style=for-the-badge&logo=Django)](https://t.me/jonatanhn)
+  
   
   
   ### *Frontend and Frameworks🖥️*
@@ -53,6 +55,8 @@
   [![Telegram](https://img.shields.io/badge/-Javascript-%23282a36?style=for-the-badge&logo=Javascript)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-React-%23282a36?style=for-the-badge&logo=React)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Vue-%23282a36?style=for-the-badge&logo=Vue.js)](https://t.me/jonatanhn)
+  [![Telegram](https://img.shields.io/badge/-Astro-%23282a36?style=for-the-badge&logo=Astro)](https://t.me/jonatanhn)
+
   
  
   ### *Databases SQL and NoSQL 🗄️*
@@ -68,8 +72,9 @@
   [![Telegram](https://img.shields.io/badge/-Nativescript-%23282a36?style=for-the-badge&logo=Nativescript)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Native-%23282a36?style=for-the-badge&logo=React)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Deno-%23282a36?style=for-the-badge&logo=Deno)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Astro-%23282a36?style=for-the-badge&logo=Astro)](https://t.me/jonatanhn)
   [![Telegram](https://img.shields.io/badge/-Svelte-%23282a36?style=for-the-badge&logo=Svelte)](https://t.me/jonatanhn)
+  [![Telegram](https://img.shields.io/badge/-NestJS-%23282a36?style=for-the-badge&logo=NestJS)](https://t.me/jonatanhn)
+  
    
         
  </div>
