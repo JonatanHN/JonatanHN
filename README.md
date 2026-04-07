@@ -1,100 +1,78 @@
 ![Top Image](./img/top.svg)
-        
+
 <div align="left">
-  
-<div align="">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monserrat&weight=800&size=22&pause=1000&color=2ECC72&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+my+name+is++Jonat%C3%A1n+H.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=2ECC72&width=600&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Jonath%C3%A1n+H.;Full+Stack+Web+Developer+%F0%9F%9A%80;NodeJS+%7C+NestJS+%7C+Vue+%7C+React;Building+things+that+matter+%E2%9C%A8)](https://git.io/typing-svg)
 
-</div>
- 
- 
- [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/jonatanhn)
- [![Twitter](https://img.shields.io/badge/--%23282a36?style=for-the-badge&logo=X)](https://www.twitter.com/jonatanhn00)
- [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCZbOo5XlsjFuROgPrLmRRGQ)
- [![Instagram](https://img.shields.io/badge/-Instagram-%23282a36.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F)](https://www.instagram.com/jonatanhn00)
- ![Views](https://komarev.com/ghpvc/?username=JonatanHN&style=for-the-badge&color=282a36&label=👀)
-       
-<div align="left"> 
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-%23282a36?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/jonatanhn)
+[![X](https://img.shields.io/badge/X-%23282a36?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/jonatanhn00)
+[![YouTube](https://img.shields.io/badge/YouTube-%23282a36?style=for-the-badge&logo=YouTube&logoColor=ff0000)](https://www.youtube.com/channel/UCZbOo5XlsjFuROgPrLmRRGQ)
+[![Instagram](https://img.shields.io/badge/Instagram-%23282a36?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/jonatanhn00)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23282a36?style=for-the-badge&logo=Firefox&logoColor=2ECC72)](https://jonatanhn.site)
+![Views](https://komarev.com/ghpvc/?username=JonatanHN&style=for-the-badge&color=282a36&label=Profile+Views)
 
 ---
 
-### *About me* 🧑🏻‍💻
- 
-</div>
- 
- ⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using NodeJS.
-- 🌱 I’m currently learning Dart and Flutter.
-- 🆘 I really like programming, creating things that help other people.
- 
- <div align="left">
-         
-  ---
+## About me 🧑🏻‍💻
 
-  ### *Full stack web developer* 📌
-         
- </div>
- 
-<div align="">
+Full Stack Web Developer based in **Guadalajara, México** 🇲🇽 — I enjoy turning ideas into robust, scalable applications. Open to collaborate on interesting **Node.js** projects and always learning something new.
 
-  ### *Backend and Frameworks 🔙*
-  [![Telegram](https://img.shields.io/badge/-Node.js-%23282a36?style=for-the-badge&logo=Node.js)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-PHP-%23282a36?style=for-the-badge&logo=PHP)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Python-%23282a36?style=for-the-badge&logo=Python)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Express-%23282a36?style=for-the-badge&logo=Express)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Nestjs-%23282a36?style=for-the-badge&logo=Nestjs)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Adonis-%23282a36?style=for-the-badge&logo=Adonisjs)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Django-%23282a36?style=for-the-badge&logo=Django)](https://t.me/jonatanhn)
-  
-  
-  
-  ### *Frontend and Frameworks🖥️*
-  [![Telegram](https://img.shields.io/badge/-HTML-%23282a36?style=for-the-badge&logo=html5)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-CSS-%23282a36?style=for-the-badge&logo=css3)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Javascript-%23282a36?style=for-the-badge&logo=Javascript)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-React-%23282a36?style=for-the-badge&logo=React)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Vue-%23282a36?style=for-the-badge&logo=Vue.js)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Astro-%23282a36?style=for-the-badge&logo=Astro)](https://t.me/jonatanhn)
+- 🔭 Currently building with **NestJS**, **AdonisJS**, **Vue 3** and **React**
+- 🌱 Expanding into **Flutter**, **Dart** and **React Native**
+- 🤖 Exploring **AI integrations** and **LLM-powered tools**
+- 💬 Ask me about **REST/GraphQL APIs**, **backend architecture** or **DB design**
+- ⚡ I build things that genuinely help people — open source and beyond
 
-  
- 
-  ### *Databases SQL and NoSQL 🗄️*
+## Tech Stack 🛠️
 
-  [![Telegram](https://img.shields.io/badge/-MYSQL-%23282a36?style=for-the-badge&logo=MYSQL)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-PostgresQL-%23282a36?style=for-the-badge&logo=PostgresQL)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-MongoDB-%23282a36?style=for-the-badge&logo=MongoDB)](https://t.me/jonatanhn)
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,python,django,adonis&theme=dark" />
+</p>
 
-  ### *Learning 🏫*
+### Frontend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,astro,svelte&theme=dark" />
+</p>
 
-  [![Telegram](https://img.shields.io/badge/-Dart-%23282a36?style=for-the-badge&logo=Dart)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Flutter-%23282a36?style=for-the-badge&logo=Flutter)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Nativescript-%23282a36?style=for-the-badge&logo=Nativescript)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Native-%23282a36?style=for-the-badge&logo=React)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Deno-%23282a36?style=for-the-badge&logo=Deno)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-Svelte-%23282a36?style=for-the-badge&logo=Svelte)](https://t.me/jonatanhn)
-  [![Telegram](https://img.shields.io/badge/-NestJS-%23282a36?style=for-the-badge&logo=NestJS)](https://t.me/jonatanhn)
-  
-   
-        
- </div>
- 
-<div style="display:flex;" align="center">
- 
----
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <!-- React Native -->
+</p>
 
-  ### *Stats 🔥*
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JonatanHN&theme=soft-green&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-  
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark" />
+</p>
 
----     
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" />
+</p>
 
-   [![GitHub Readme](https://github-readme-stats.vercel.app/api?username=JonatanHN&theme=dark&show_icon=true&hide_border=true&amp;rank_icon=github&show_icons=true&bg_color=222428&border_radius=10)](https://github-readme-stats.vercel.app)
- 
+### Currently Learning 🏫
+<p>
+  <img src="https://skillicons.dev/icons?i=deno,kubernetes,graphql&theme=dark" />
+</p>
+
+## Stats 🔥
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JonatanHN&theme=soft-green&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonatanHN&bg_color=222428&color=2ECC72&line=2ECC72&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonatanHN&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
-        
-</div>
-
 
 ![Bottom Image](./img/bottom.svg)
